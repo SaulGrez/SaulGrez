@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming especially in html, css and java because i'm still a junior and i want improve my skills as a font-end developer, i like design and create pages webs and application  
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... software proyects
-- 📫 How to reach me ... you can contact me throught email send me an email to saulgrezl@gmail.com
+- 📫 How to reach me ... you can contact me throught email send me an email to saulgrezl@gmail.com and i'll reply u as soon as possible.  
 
 <!---
 SaulGrez/SaulGrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
