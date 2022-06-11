@@ -1,3 +1,6 @@
+https://favicon.tech/wp-content/uploads/2017/08/titanic.gif
+
+
 - 👋 Hi, I’m @SaulGrez
 - 👀 I’m interested in ... programming especially in html, css and java because i'm still a junior and i want improve my skills as a font-end developer, i like design and create pages webs and applications  
 - 🌱 I’m currently learning ... javascript
