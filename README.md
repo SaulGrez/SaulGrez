@@ -1,4 +1,4 @@
-![ ](https://favicon.tech/wp-content/uploads/2017/08/titanic.gif)
+![ ](https://miro.medium.com/max/1064/0*T7nlzhJ0eOb6YyVy.gif)
 
 
 - 👋 Hi, I’m @SaulGrez
