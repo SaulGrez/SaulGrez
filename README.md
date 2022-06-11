@@ -1,4 +1,4 @@
-(https://favicon.tech/wp-content/uploads/2017/08/titanic.gif)
+![ ](https://favicon.tech/wp-content/uploads/2017/08/titanic.gif)
 
 
 - 👋 Hi, I’m @SaulGrez
