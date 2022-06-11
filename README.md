@@ -1,4 +1,4 @@
-### <div align="center">Hello!, I'm a junior front-end developer! 🚀</div> 
+### <div align="center">Hello!, I'm a Junior Front-End Developer! 🚀</div> 
 
 - 👋 Hi!, I’m @SaulGrez
 - 👀 I’m interested in ... programming especially in html, css and java because i'm still a junior and i want improve my skills as a font-end developer, i like design and create pages webs and applications  
