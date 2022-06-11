@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... software proyects
 - 📫 How to reach me ... you can contact me throught email send me an email to saulgrezl@gmail.com and i'll reply u as soon as possible.  
 
-### Frontend  
+### Skills and Tools  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
