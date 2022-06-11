@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
 ![ ](https://i.pinimg.com/originals/05/9b/6a/059b6a40b4c29a225ac60a9d127826fd.gif)
 
 ### <div align="center">° GitHub Stats: 📌</div> <br>
-![](https://github-readme-stats.vercel.app/api?username=SaulGrez&theme=swift&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaulGrez&theme=swift&hide_border=false)<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saulgrez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 
 ### - Thanks for visit my profile :)
