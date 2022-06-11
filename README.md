@@ -7,7 +7,7 @@
 - 📫 How to reach me ... you can contact me throught email send me an email to saulgrezl@gmail.com and i'll reply u as soon as possible.  
 
 ### Skills and Tools  
-<div align="center">   
+<div align="center" Skills and Tools>   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
