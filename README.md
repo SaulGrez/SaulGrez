@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... software proyects
 - 📫 How to reach me ... you can contact me throught email send me an email to saulgrezl@gmail.com and i'll reply u as soon as possible.  
-- Thanks for visit my profile :)
+
 ### Skills and Tools: 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -22,3 +22,4 @@ SaulGrez/SaulGrez is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![ ](https://i.pinimg.com/originals/05/9b/6a/059b6a40b4c29a225ac60a9d127826fd.gif)
+- Thanks for visit my profile :)
