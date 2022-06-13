@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 <br/>  
 
 
-### - Thanks for visit my profile :)
+### - Thanks for visit my profile -(o-o)-
